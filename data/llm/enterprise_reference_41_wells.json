@@ -1,0 +1,410 @@
+{
+  "schema_version": "1.0",
+  "use": "Independent evaluation only. Do not index in RAG or include in LLM input.",
+  "source": "Detailed investigation and risk assessment report",
+  "n_wells": 41,
+  "n_wells_with_reference": 21,
+  "records": [
+    {
+      "well_id": "CK01",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "CK02",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A07",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A03",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A10",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A01",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "Ni、Co及其他金属",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "井位邻近且企业原料和工艺涉及相关金属，调查报告将该井金属异常与该企业联系。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A12",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A05",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E003",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "最终模拟来源",
+          "basis": "成果报告污染模拟将该井1,2-二氯乙烷与E003对应。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        },
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "初步调查关联",
+          "basis": "初步调查阶段按邻近关系和原辅料将该井与E012联系，后续模拟给出不同来源。",
+          "source_locator": "初步调查结论，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A09",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E005",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "最终模拟来源",
+          "basis": "成果报告污染模拟识别该井位于E005下游。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A02",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷与乙醛",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "井位处于E012下游，原辅料和模拟结果共同支持。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        },
+        {
+          "enterprise_id": "E010",
+          "pollutant_direction": "氯乙烯与二氯甲烷",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "井位处于E010下游，企业原辅料涉及相应化合物。",
+          "source_locator": "详细调查成果报告，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A11",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "初步调查关联",
+          "basis": "初步调查按井位、流向和原辅料将该井与E012联系。",
+          "source_locator": "初步调查结论，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A04",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A08",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E026",
+          "pollutant_direction": "硫酸盐、Cd、Ni、Co等",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "该井位于E026下游，报告结合原辅料、废水和模拟结果形成来源判断。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A06",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "Mn、Cu、Zn、Cd、Ni、Co等金属",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "该井位于E001下游，企业原料和工艺涉及相关金属，报告多处形成一致判断。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        },
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "模拟下游关系",
+          "basis": "成果报告将该井列为E012下游的1,2-二氯乙烷影响点。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B11",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E024",
+          "pollutant_direction": "Al及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告按邻近关系及原辅料将该井与E024列为同一排查方向。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B04",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B14",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "模拟下游关系",
+          "basis": "成果报告污染模拟将该井列为E012下游点位。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B02",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B09",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E010",
+          "pollutant_direction": "Al、氯化物及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告按邻近关系和企业原辅料形成候选来源判断。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B15",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B06",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B13",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B01",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B08",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B12",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B05",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E032",
+          "pollutant_direction": "氯化物、Mn、Zn等",
+          "conclusion_level": "报告判断为主要来源",
+          "basis": "报告结合井位、企业废液原料和污染分布形成来源判断。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B10",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "Al、Zn、Co等金属",
+          "conclusion_level": "模拟来源",
+          "basis": "成果报告金属污染模拟将该井与E001对应。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B03",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E002",
+          "pollutant_direction": "Mn及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告将井位周边企业活动、废水收集和原辅料列为排查依据。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        },
+        {
+          "enterprise_id": "E022",
+          "pollutant_direction": "Mn及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告将井位周边企业活动、废水收集和原辅料列为排查依据。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B07",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "金属及氯化物",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告按井位与企业地块关系将其纳入E001相关排查范围。",
+          "source_locator": "详细调查成果报告，Section 7.7–8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C04",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "C09",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E038",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "上游污染关联",
+          "basis": "报告认为该井位于C02下游，异常可能与E038内部上游污染有关。",
+          "source_locator": "初步调查结论，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C01",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "C07",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "C10",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E038",
+          "pollutant_direction": "三氯甲烷及相关化学异常",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "井位邻近E038，报告结合生产和排放过程形成判断。",
+          "source_locator": "详细调查成果报告，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C03",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E039",
+          "pollutant_direction": "As及相关金属",
+          "conclusion_level": "报告判断为企业活动影响",
+          "basis": "该井为E039厂区内部监测井，报告将相关异常与企业活动联系。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C08",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E046",
+          "pollutant_direction": "Tl及相关金属",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "报告结合井位、企业特征污染物和下游关系形成判断。",
+          "source_locator": "详细调查成果报告，Section 7.7–8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C02",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E038",
+          "pollutant_direction": "氯化物、Mn、三氯甲烷及特征有机物",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "井位处于E038厂区或其影响范围，报告结合流向、企业原辅料和模拟结果形成判断。",
+          "source_locator": "详细调查成果报告，Section 7.7–8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C06",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E046",
+          "pollutant_direction": "Tl及相关金属",
+          "conclusion_level": "模拟来源",
+          "basis": "成果报告污染模拟将该井Tl异常与E046对应。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C05",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "D02",
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "D01",
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E046",
+          "pollutant_direction": "As、Cd、Pb及其他金属",
+          "conclusion_level": "报告判断为企业活动影响",
+          "basis": "该监测井统一编号为D01。成果报告结合井位、地下水流向和企业污染识别结果，将该井相关异常与E046联系。",
+          "source_locator": "详细调查成果报告，Section 7.7，D01污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    }
+  ]
+}

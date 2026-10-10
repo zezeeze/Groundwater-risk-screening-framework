@@ -1,0 +1,203 @@
+{
+  "seed": 20260909,
+  "n_wells": 41,
+  "n_risk": 27,
+  "n_nonrisk": 14,
+  "feature_counts": {
+    "EEM-only": 11,
+    "UV-Vis-only": 13,
+    "Fusion": 24
+  },
+  "features": {
+    "EEM-only": [
+      "F_integral",
+      "C_peak",
+      "T_peak",
+      "C/T",
+      "C_Ex",
+      "C_Em",
+      "T_Ex",
+      "T_Em",
+      "FI",
+      "BIX",
+      "HIX"
+    ],
+    "UV-Vis-only": [
+      "A200",
+      "A220",
+      "A254",
+      "A280",
+      "A320",
+      "A364",
+      "A400",
+      "A496",
+      "A578",
+      "MeanA_200_250",
+      "MeanA_240_360",
+      "Amax_190_780",
+      "VisMax_400_700"
+    ],
+    "Fusion": [
+      "F_integral",
+      "C_peak",
+      "T_peak",
+      "C/T",
+      "C_Ex",
+      "C_Em",
+      "T_Ex",
+      "T_Em",
+      "FI",
+      "BIX",
+      "HIX",
+      "A200",
+      "A220",
+      "A254",
+      "A280",
+      "A320",
+      "A364",
+      "A400",
+      "A496",
+      "A578",
+      "MeanA_200_250",
+      "MeanA_240_360",
+      "Amax_190_780",
+      "VisMax_400_700"
+    ]
+  },
+  "best_model": {
+    "modality": "UV-Vis-only",
+    "model": "Logistic",
+    "metrics": {
+      "ROC-AUC": 0.843915343915344,
+      "PR-AUC": 0.9165659818092085,
+      "Accuracy": 0.7317073170731707,
+      "Balanced_accuracy": 0.7447089947089947,
+      "Precision": 0.8636363636363636,
+      "Recall": 0.7037037037037037,
+      "Specificity": 0.7857142857142857,
+      "F1": 0.7755102040816326,
+      "MCC": 0.46541211876427413,
+      "Brier": 0.18924011098983579,
+      "TN": 11,
+      "FP": 3,
+      "FN": 8,
+      "TP": 19,
+      "ROC-AUC_low": 0.7063492063492064,
+      "ROC-AUC_high": 0.9603174603174602,
+      "PR-AUC_low": 0.8374504659192888,
+      "PR-AUC_high": 0.9803631734193953
+    },
+    "full_data_best_params": {
+      "model__C": 100.0,
+      "model__penalty": "l1"
+    },
+    "full_data_inner_PR_AUC": 0.9550555555555554
+  },
+  "best_single": {
+    "modality": "UV-Vis-only",
+    "model": "Logistic",
+    "PR-AUC": 0.9165659818092085,
+    "ROC-AUC": 0.843915343915344
+  },
+  "best_by_modality": [
+    {
+      "Modality": "UV-Vis-only",
+      "Overall_rank": 1,
+      "Model": "Logistic",
+      "ROC-AUC": 0.843915343915344,
+      "PR-AUC": 0.9165659818092085,
+      "Accuracy": 0.7317073170731707,
+      "Balanced_accuracy": 0.7447089947089947,
+      "Precision": 0.8636363636363636,
+      "Recall": 0.7037037037037037,
+      "Specificity": 0.7857142857142857,
+      "F1": 0.7755102040816326,
+      "MCC": 0.46541211876427413,
+      "Brier": 0.18924011098983579,
+      "TN": 11,
+      "FP": 3,
+      "FN": 8,
+      "TP": 19,
+      "Inner_PR_AUC_mean": 0.942351529229578,
+      "ROC-AUC_low": 0.7063492063492064,
+      "ROC-AUC_high": 0.9603174603174602,
+      "PR-AUC_low": 0.8374504659192888,
+      "PR-AUC_high": 0.9803631734193953
+    },
+    {
+      "Modality": "EEM-only",
+      "Overall_rank": 6,
+      "Model": "Logistic",
+      "ROC-AUC": 0.6957671957671958,
+      "PR-AUC": 0.8543561941311901,
+      "Accuracy": 0.6829268292682927,
+      "Balanced_accuracy": 0.7076719576719577,
+      "Precision": 0.85,
+      "Recall": 0.6296296296296297,
+      "Specificity": 0.7857142857142857,
+      "F1": 0.723404255319149,
+      "MCC": 0.39402983543367903,
+      "Brier": 0.2437222178857596,
+      "TN": 11,
+      "FP": 3,
+      "FN": 10,
+      "TP": 17,
+      "Inner_PR_AUC_mean": 0.876365466511808,
+      "ROC-AUC_low": 0.5238095238095238,
+      "ROC-AUC_high": 0.8492063492063492,
+      "PR-AUC_low": 0.7612107164503891,
+      "PR-AUC_high": 0.9350421032358419
+    },
+    {
+      "Modality": "Fusion",
+      "Overall_rank": 7,
+      "Model": "sLDA",
+      "ROC-AUC": 0.6534391534391535,
+      "PR-AUC": 0.8435080332636911,
+      "Accuracy": 0.5853658536585366,
+      "Balanced_accuracy": 0.582010582010582,
+      "Precision": 0.7272727272727273,
+      "Recall": 0.5925925925925926,
+      "Specificity": 0.5714285714285714,
+      "F1": 0.6530612244897959,
+      "MCC": 0.15597595331559458,
+      "Brier": 0.2761651496515721,
+      "TN": 8,
+      "FP": 6,
+      "FN": 11,
+      "TP": 16,
+      "Inner_PR_AUC_mean": 0.883460704607046,
+      "ROC-AUC_low": 0.47883597883597884,
+      "ROC-AUC_high": 0.8121693121693121,
+      "PR-AUC_low": 0.757587551599263,
+      "PR-AUC_high": 0.9204692486749612
+    }
+  ],
+  "paired_delta_best_fusion": {
+    "best_EEM": {
+      "PR-AUC": {
+        "delta_best_fusion_minus_comparator": -0.010848160867499068,
+        "ci_low": -0.09028048329390781,
+        "ci_high": 0.06554666733407113
+      },
+      "ROC-AUC": {
+        "delta_best_fusion_minus_comparator": -0.042328042328042326,
+        "ci_low": -0.18260582010582022,
+        "ci_high": 0.0978835978835979
+      }
+    },
+    "best_UV_Vis": {
+      "PR-AUC": {
+        "delta_best_fusion_minus_comparator": -0.07305794854551739,
+        "ci_low": -0.16706918569005239,
+        "ci_high": 0.015199550320177203
+      },
+      "ROC-AUC": {
+        "delta_best_fusion_minus_comparator": -0.19047619047619047,
+        "ci_low": -0.37037037037037035,
+        "ci_high": -0.010582010582010689
+      }
+    }
+  },
+  "runtime_seconds": 836.9503846168518
+}

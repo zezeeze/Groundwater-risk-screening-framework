@@ -1,0 +1,22 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+
+# Large local LLM files and runtimes
+*.gguf
+models/llm/llama.cpp*/
+
+# Generated retrieval index
+data/rag/index/
+
+# New local inference and evaluation runs
+data/llm/local_llm_run_reproduced/
+data/llm/published_evaluation_reproduced/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

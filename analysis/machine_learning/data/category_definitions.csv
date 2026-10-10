@@ -1,0 +1,6 @@
+Category,Chinese category,Included indicators,Positive wells,Rule
+Conventional and nutrients,常规水质与营养盐,"pH, CODMn, Ammonia-N, Nitrite-N, Nitrate-N",14,1 if at least one included indicator reaches Class V; otherwise 0
+Mineralization and major ions,盐分与矿化度,"Total hardness, TDS, Sulfate, Chloride, Na, Fluoride, Iodide, Sulfide",17,1 if at least one included indicator reaches Class V; otherwise 0
+Common metals,常见金属,"Fe, Mn, Al",23,1 if at least one included indicator reaches Class V; otherwise 0
+Toxic metals and metalloids,毒性金属与类金属,"Cu, Zn, Hg, As, Se, Cd, Cr(VI), Pb, B, Ni, Co",17,1 if at least one included indicator reaches Class V; otherwise 0
+Specific organic pollutants,特征有机污染物,"Volatile phenols, Anionic surfactants, Dichloromethane, 1,2-Dichloroethane, Vinyl chloride, Chlorobenzene, o-Dichlorobenzene, Naphthalene, Benzo[a]pyrene, Benzene, Toluene, Chloroform, Carbon tetrachloride, Xylene",9,1 if at least one included indicator reaches Class V; otherwise 0

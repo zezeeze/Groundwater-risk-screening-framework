@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "n_wells": 41,
+  "all_wells_have_12_chunks": true,
+  "all_chunk_ids_unique_within_well": true,
+  "all_chunks_have_source_ids": true,
+  "wells_with_all_four_domains": 41,
+  "domain_coverage": {
+    "spectral_interpretation": 41,
+    "chemical_direction": 41,
+    "analytical_method": 41,
+    "site_or_enterprise": 41
+  },
+  "retrieved_knowledge_type_counts": {
+    "光谱特征解释": 123,
+    "化学指标解释": 41,
+    "风险标签映射": 82,
+    "标准分析方法": 123,
+    "研究井场地背景": 27,
+    "井企候选关系": 41,
+    "企业背景": 41,
+    "监测井背景": 14
+  },
+  "representative_wells": [
+    "C02",
+    "A12",
+    "B03",
+    "C07"
+  ],
+  "note": "Domain coverage is a screening diagnostic, not a relevance gold standard. Representative-well rows require blinded human review before LLM inference."
+}

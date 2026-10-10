@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-09-24T15:44:27+08:00",
+  "n_requests": 41,
+  "all_requests_have_12_rag_chunks": true,
+  "all_request_ids_unique": true,
+  "reference_answers_loaded": false,
+  "input_hashes": {
+    "structured_inputs_41_wells.jsonl": "043686518D530B483C58ECAEDD3A5C9F7ED1D62793B37C674FFE832A627AA7B1",
+    "rag_retrieval_41_wells.jsonl": "5487FBEDB55C770D9F55AEBA21D48C9209F0C18348BF3E53B5244EAE40564CAD",
+    "category_model_performance_metadata.json": "61B253C0F17F3870F9A47A9A7120A73730214A4469CA556058B7558D7C99F399",
+    "prompt_template_and_output_format.md": "E9C9374138DBFA6B2BB1B73B9498450B1AB9B65E9A1FD8D9B6DD19D75C19A2DA",
+    "output_schema.json": "F5AA0969ED1EB9057D507B7E0BD599CCD1A77CADEF42A571DB57F7E32081D54A"
+  },
+  "output_sha256": "98015420AEA904874463764221854D779DA297F2DC3D0145FEB8E342DB8C0DD1",
+  "public_release_note": "Hashes updated after anonymization; analytical content and model outputs were unchanged."
+}

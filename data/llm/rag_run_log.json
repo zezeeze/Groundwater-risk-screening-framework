@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.1",
+  "created_at": "2026-09-23T04:20:02.759407+00:00",
+  "elapsed_seconds": 560.908,
+  "n_wells": 41,
+  "retrieval_output_sha256": "5487fbedb55c770d9f55aeba21d48c9209f0c18348bf3e53b5244eae40564cad",
+  "corpus_sha256": "cfdf24f2212cd7edafe8b4f661ea2e30d3ac4568a0cf3d56093b628bcdcf58e7",
+  "config": {
+    "schema_version": "1.0",
+    "embedding_model": "BAAI/bge-m3",
+    "reranker_model": "BAAI/bge-reranker-v2-m3",
+    "chunk_size_tokens": 400,
+    "chunk_overlap_tokens": 80,
+    "vector_top_k": 20,
+    "bm25_top_k": 20,
+    "rrf_constant": 60,
+    "final_top_k": 12,
+    "embedding_batch_size": 8,
+    "reranker_batch_size": 4,
+    "max_sequence_length": 384,
+    "random_seed": 20260921,
+    "paths": {
+      "corpus": "data/rag/rag_corpus.jsonl",
+      "well_inputs": "data/llm/structured_inputs_41_wells.jsonl",
+      "shared_model_metadata": "data/llm/category_model_performance_metadata.json",
+      "index_dir": "data/rag/index",
+      "retrieval_output": "data/llm/rag_retrieval_41_wells.jsonl",
+      "retrieval_log": "data/llm/rag_run_log.json",
+      "quality_csv": "data/llm/rag_quality_checks.csv",
+      "quality_summary": "data/llm/rag_quality_summary.json",
+      "manual_review_xlsx": "data/llm/rag_representative_well_review.xlsx"
+    },
+    "rrf_shortlist_k_per_domain": 10,
+    "retrieval_domains": {
+      "spectral_interpretation": {
+        "quota": 3,
+        "knowledge_types": [
+          "光谱特征解释",
+          "解释规则",
+          "UV-Vis实验条件"
+        ]
+      },
+      "chemical_direction": {
+        "quota": 3,
+        "required_knowledge_types": [
+          "化学指标解释",
+          "风险标签映射"
+        ],
+        "knowledge_types": [
+          "化学指标解释",
+          "风险标签映射"
+        ]
+      },
+      "analytical_method": {
+        "quota": 3,
+        "knowledge_types": [
+          "标准分析方法"
+        ]
+      },
+      "site_or_enterprise": {
+        "quota": 3,
+        "knowledge_types": [
+          "研究井场地背景",
+          "监测井背景",
+          "井企候选关系",
+          "企业背景",
+          "场地环境知识",
+          "水文地质知识"
+        ]
+      }
+    }
+  },
+  "public_release_note": "Hashes updated after anonymization; retrieval settings and ranked evidence were unchanged."
+}

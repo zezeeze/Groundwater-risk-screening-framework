@@ -1,0 +1,43 @@
+Indicator,V_class_rule,Boundary_value,Unit
+Total hardness,> 650,650.0,mg/L
+TDS,> 2000,2000.0,mg/L
+Sulfate,> 350,350.0,mg/L
+Chloride,> 350,350.0,mg/L
+Fe,> 2,2.0,mg/L
+Mn,> 1.5,1.5,mg/L
+Cu,> 1.5,1.5,mg/L
+Zn,> 5,5.0,mg/L
+Al,> 0.5,0.5,mg/L
+Volatile phenols,> 0.01,0.01,mg/L
+Anionic surfactants,> 0.3,0.3,mg/L
+CODMn,> 10,10.0,mg/L
+Ammonia-N,> 1.5,1.5,mg/L
+Sulfide,> 0.1,0.1,mg/L
+Na,> 400,400.0,mg/L
+Nitrite-N,> 4.8,4.8,mg/L
+Nitrate-N,> 30,30.0,mg/L
+Cyanide,> 0.1,0.1,mg/L
+Fluoride,> 2,2.0,mg/L
+Iodide,> 0.5,0.5,mg/L
+Hg,> 0.002,0.002,mg/L
+As,> 0.05,0.05,mg/L
+Se,> 0.1,0.1,mg/L
+Cd,> 0.01,0.01,mg/L
+Cr(VI),> 0.1,0.1,mg/L
+Pb,> 0.1,0.1,mg/L
+B,> 2,2.0,mg/L
+Ni,> 0.1,0.1,mg/L
+Co,> 0.1,0.1,mg/L
+Dichloromethane,> 500,500.0,ug/L
+"1,2-Dichloroethane",> 40,40.0,ug/L
+Vinyl chloride,> 90,90.0,ug/L
+Chlorobenzene,> 600,600.0,ug/L
+o-Dichlorobenzene,> 2000,2000.0,ug/L
+Naphthalene,> 600,600.0,ug/L
+Benzo[a]pyrene,> 0.5,0.5,ug/L
+Benzene,> 120,120.0,ug/L
+Toluene,> 1400,1400.0,ug/L
+Chloroform,> 300,300.0,ug/L
+Carbon tetrachloride,> 50,50.0,ug/L
+Xylene,> 1000,1000.0,ug/L
+pH,< 5.5 or > 9.0,,dimensionless

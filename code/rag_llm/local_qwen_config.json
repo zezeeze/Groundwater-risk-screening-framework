@@ -1,0 +1,21 @@
+{
+  "endpoint": "http://127.0.0.1:8088",
+  "request_file": "data/llm/inference_requests_41_wells.jsonl",
+  "corpus_file": "data/rag/rag_corpus.jsonl",
+  "output_dir": "data/llm/local_llm_run",
+  "model_repository": "Qwen/Qwen3-8B-GGUF",
+  "model_revision": "7c41481f57cb95916b40956ab2f0b139b296d974",
+  "model_file": "models/llm/Qwen3-8B-GGUF/Qwen3-8B-Q4_K_M.gguf",
+  "model_sha256": "D98CDCBD03E17CE47681435B5150E34C1417F50B5C0019DD560E4882C5745785",
+  "llama_cpp_version": "b11026 (commit b49650adb)",
+  "backend": "CUDA 12.4, NVIDIA GeForce RTX 5070 Ti Laptop GPU, all layers offloaded",
+  "context_size": 24576,
+  "temperature": 0.0,
+  "top_p": 0.9,
+  "top_k": 40,
+  "min_p": 0.0,
+  "seed": 20260921,
+  "max_output_tokens": 2200,
+  "timeout_seconds": 1800,
+  "max_attempts": 2
+}

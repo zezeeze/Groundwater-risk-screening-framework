@@ -1,0 +1,13 @@
+scope,k,n_evaluable_wells,any_hit_rate,macro_recall,macro_precision
+full_evidence_all_reference_wells,1,21,0.5238095238095238,0.5,0.5238095238095238
+full_evidence_all_reference_wells,3,21,0.7142857142857143,0.6428571428571429,0.25396825396825395
+full_evidence_all_reference_wells,5,21,0.8571428571428571,0.8095238095238095,0.19047619047619047
+distance_only_all_reference_wells,1,21,0.3333333333333333,0.3333333333333333,0.3333333333333333
+distance_only_all_reference_wells,3,21,0.7619047619047619,0.6666666666666666,0.25396825396825395
+distance_only_all_reference_wells,5,21,0.8571428571428571,0.7857142857142857,0.18095238095238098
+full_evidence_risk_reference_wells,1,16,0.625,0.59375,0.625
+full_evidence_risk_reference_wells,3,16,0.75,0.6875,0.2708333333333333
+full_evidence_risk_reference_wells,5,16,0.8125,0.78125,0.1875
+distance_only_risk_reference_wells,1,16,0.375,0.375,0.375
+distance_only_risk_reference_wells,3,16,0.75,0.65625,0.25
+distance_only_risk_reference_wells,5,16,0.875,0.8125,0.1875

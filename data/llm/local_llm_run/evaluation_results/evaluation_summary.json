@@ -1,0 +1,176 @@
+{
+  "evaluation_after_output_freeze": true,
+  "frozen_output_sha256": "9E49888964CF9480A16CC84A377A74C7EA8EB479C106A2E2EC698025FA4A7447",
+  "n_wells": 41,
+  "overall_risk": {
+    "tp": 21,
+    "tn": 9,
+    "fp": 5,
+    "fn": 6,
+    "accuracy": 0.7317073170731707,
+    "precision": 0.8076923076923077,
+    "recall": 0.7777777777777778,
+    "specificity": 0.6428571428571429,
+    "f1": 0.7924528301886792,
+    "mcc": 0.41411305399567094
+  },
+  "risk_category_ranking": {
+    "top_1": {
+      "n_evaluable_wells": 27,
+      "any_hit_rate": 0.7037037037037037,
+      "macro_recall": 0.26851851851851855,
+      "macro_precision": 0.7037037037037037
+    },
+    "top_3": {
+      "n_evaluable_wells": 27,
+      "any_hit_rate": 0.9629629629629629,
+      "macro_recall": 0.7129629629629629,
+      "macro_precision": 0.6790123456790123
+    }
+  },
+  "confirmatory_test_recommendation": {
+    "top_3": {
+      "n_evaluable_wells": 27,
+      "any_hit_rate": 0.5925925925925926,
+      "macro_recall": 0.15617684784351452,
+      "macro_precision": 0.25925925925925924
+    },
+    "top_5": {
+      "n_evaluable_wells": 27,
+      "any_hit_rate": 0.7037037037037037,
+      "macro_recall": 0.2987734487734488,
+      "macro_precision": 0.26666666666666666
+    },
+    "top_10": {
+      "n_evaluable_wells": 27,
+      "any_hit_rate": 0.8148148148148148,
+      "macro_recall": 0.4340668590668591,
+      "macro_precision": 0.2037037037037037
+    }
+  },
+  "enterprise_candidate_identification": {
+    "full_evidence_all_reference_wells": {
+      "top_1": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.5238095238095238,
+        "macro_recall": 0.5,
+        "macro_precision": 0.5238095238095238
+      },
+      "top_3": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.7142857142857143,
+        "macro_recall": 0.6428571428571429,
+        "macro_precision": 0.25396825396825395
+      },
+      "top_5": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.8571428571428571,
+        "macro_recall": 0.8095238095238095,
+        "macro_precision": 0.19047619047619047
+      }
+    },
+    "distance_only_all_reference_wells": {
+      "top_1": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.3333333333333333,
+        "macro_recall": 0.3333333333333333,
+        "macro_precision": 0.3333333333333333
+      },
+      "top_3": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.7619047619047619,
+        "macro_recall": 0.6666666666666666,
+        "macro_precision": 0.25396825396825395
+      },
+      "top_5": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.8571428571428571,
+        "macro_recall": 0.7857142857142857,
+        "macro_precision": 0.18095238095238098
+      }
+    },
+    "full_evidence_risk_reference_wells": {
+      "top_1": {
+        "n_evaluable_wells": 16,
+        "any_hit_rate": 0.625,
+        "macro_recall": 0.59375,
+        "macro_precision": 0.625
+      },
+      "top_3": {
+        "n_evaluable_wells": 16,
+        "any_hit_rate": 0.75,
+        "macro_recall": 0.6875,
+        "macro_precision": 0.2708333333333333
+      },
+      "top_5": {
+        "n_evaluable_wells": 16,
+        "any_hit_rate": 0.8125,
+        "macro_recall": 0.78125,
+        "macro_precision": 0.1875
+      }
+    },
+    "distance_only_risk_reference_wells": {
+      "top_1": {
+        "n_evaluable_wells": 16,
+        "any_hit_rate": 0.375,
+        "macro_recall": 0.375,
+        "macro_precision": 0.375
+      },
+      "top_3": {
+        "n_evaluable_wells": 16,
+        "any_hit_rate": 0.75,
+        "macro_recall": 0.65625,
+        "macro_precision": 0.25
+      },
+      "top_5": {
+        "n_evaluable_wells": 16,
+        "any_hit_rate": 0.875,
+        "macro_recall": 0.8125,
+        "macro_precision": 0.1875
+      }
+    }
+  },
+  "contaminant_enterprise_link_identification": {
+    "strict_pollutant_enterprise_match": {
+      "top_3": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.14285714285714285,
+        "macro_recall": 0.046485260770975055
+      },
+      "top_5": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.19047619047619047,
+        "macro_recall": 0.0810657596371882
+      },
+      "top_10": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.23809523809523808,
+        "macro_recall": 0.11961451247165533
+      }
+    },
+    "category_tolerant_match": {
+      "top_3": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.5238095238095238,
+        "macro_recall": 0.40476190476190477
+      },
+      "top_5": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.5714285714285714,
+        "macro_recall": 0.42857142857142855
+      },
+      "top_10": {
+        "n_evaluable_wells": 21,
+        "any_hit_rate": 0.6666666666666666,
+        "macro_recall": 0.5476190476190477
+      }
+    },
+    "category_tolerant_definition": "Exact enterprise plus a specific candidate contaminant mapped to the same predefined risk category as at least one explicit contaminant in the independent reference. Generic metal, organic or inorganic phrases do not create a match."
+  },
+  "structured_output_validation": {
+    "n_outputs": 41,
+    "required_field_completeness_rate": 1.0,
+    "evidence_reference_validity_rate": 1.0,
+    "note": "Deterministic checks of required fields and evidence identifiers; no semantic grounding or expert-quality score is inferred."
+  }
+}

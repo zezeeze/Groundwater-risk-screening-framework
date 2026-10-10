@@ -1,0 +1,806 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>41口监测井园区内外确认</name>
+		<Style id="wellPoint">
+			<IconStyle>
+				<color>ffff7800</color>
+				<scale>0.9</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>未分类</name>
+			<Placemark>
+				<name>CK01</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>CK01</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>CK01</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.53885478,1.03993262,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CK02</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>CK02</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>CK02</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.51493221,1.01223352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A07</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A07</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A07</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54429093,1.01893168,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A03</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A03</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A03</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.55222899,1.01761686,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A10</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A10</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A10</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.55634467,1.01882092,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A01</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A01</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A01</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.55340671,1.02331486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A12</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A12</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A12</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54759064,1.02839148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A05</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A05</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A05</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54589370,1.02767207,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A09</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A09</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A09</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54291130,1.02640901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A02</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A02</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A02</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54724974,1.02448540,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A11</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A11</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A11</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54504241,1.02274589,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A04</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A04</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A04</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.55106283,1.02368442,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A08</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A08</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A08</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54821331,1.01640803,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A06</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>A06</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>A06</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.55042232,1.02143680,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B11</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B11</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B11</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54691605,1.02896074,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B04</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B04</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B04</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54893990,1.02361885,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B14</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B14</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B14</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54728446,1.02578479,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B02</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B02</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B02</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54624762,1.02693741,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B09</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B09</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B09</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54567981,1.02486802,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B15</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B15</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B15</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54579839,1.02350240,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B06</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B06</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B06</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54733124,1.02185934,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B13</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B13</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B13</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54450687,1.02425121,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B01</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B01</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B01</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.55176316,1.02162746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B08</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B08</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B08</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54850536,1.01256485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B12</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B12</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B12</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54142229,1.02778127,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B05</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B05</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B05</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.53870733,1.02873662,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B10</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B10</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B10</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.55316547,1.02295694,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B03</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B03</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B03</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54606641,1.03058283,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B07</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>B07</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>B07</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54936227,1.02080415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C04</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C04</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C04</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.51756038,1.00164904,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C09</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C09</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C09</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.52379321,0.99712686,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C01</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C01</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C01</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.53236748,1.00078597,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C07</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C07</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C07</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.53587454,1.00908559,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C10</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C10</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C10</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.52474536,1.00429453,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C03</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C03</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C03</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.52999037,1.00476648,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C08</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C08</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C08</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.52634899,1.00253106,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C02</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C02</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C02</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.52206418,1.00228286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C06</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C06</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C06</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.51925503,1.00482850,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C05</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>C05</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>C05</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.54001830,1.01134659,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D02</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>D02</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>D02</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.52290957,1.00442202,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>D01</name>
+				<styleUrl>#wellPoint</styleUrl>
+				<OvCoordType>CGCS2000</OvCoordType>
+				<ExtendedData>
+					<Data name="well_id">
+						<value>D01</value>
+					</Data>
+					<Data name="source_record_id">
+						<value>D01</value>
+					</Data>
+					<Data name="confirmation_status">
+						<value>待确认</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.52683356,1.00789892,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>园区内</name>
+		</Folder>
+		<Folder>
+			<name>园区外</name>
+		</Folder>
+		<Folder>
+			<name>边界不确定</name>
+		</Folder>
+	</Document>
+</kml>

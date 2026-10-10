@@ -1,0 +1,42 @@
+Well,Well type,Risk,V_trigger_count,V_trigger_indicators
+CK01,Background/Control,0,0,
+CK02,Background/Control,0,0,
+A07,Peripheral,1,3,"Total hardness, Ni, Co"
+A03,Peripheral,1,2,"Sulfate, Mn"
+A10,Peripheral,1,1,Mn
+A01,Peripheral,1,7,"Sulfate, Mn, Al, Ammonia-N, Ni, Co, pH"
+A12,Internal,0,0,
+A05,Internal,1,5,"Sulfate, Fe, Mn, CODMn, Ammonia-N"
+A09,Internal,1,2,"Mn, Anionic surfactants"
+A02,Internal,0,0,
+A11,Internal,0,0,
+A04,Internal,1,1,Mn
+A08,Peripheral,1,5,"Mn, Al, Ni, Co, pH"
+A06,Internal,1,10,"Sulfate, Chloride, Cu, Zn, Anionic surfactants, CODMn, Ammonia-N, Cd, Ni, Co"
+B11,Internal,1,8,"Sulfate, Fe, Mn, Anionic surfactants, CODMn, Ammonia-N, Ni, Co"
+B04,Internal,1,1,Mn
+B14,Internal,1,11,"Total hardness, Chloride, Fe, Mn, Anionic surfactants, CODMn, Ammonia-N, Iodide, Co, 1,2-Dichloroethane, Benzene"
+B02,Internal,1,11,"Total hardness, Chloride, Fe, Mn, Volatile phenols, Anionic surfactants, CODMn, Ammonia-N, Fluoride, B, 1,2-Dichloroethane"
+B09,Internal,1,4,"Fe, Mn, CODMn, Ammonia-N"
+B15,Internal,0,0,
+B06,Internal,1,6,"Sulfate, Fe, Mn, CODMn, Ammonia-N, Co"
+B13,Internal,1,6,"Sulfate, Fe, Mn, Anionic surfactants, CODMn, Ammonia-N"
+B01,Internal,1,5,"Chloride, Mn, Al, Fluoride, pH"
+B08,Peripheral,0,0,
+B12,Internal,1,2,"Mn, Al"
+B05,Internal,1,14,"Total hardness, Chloride, Fe, Mn, Al, Volatile phenols, Anionic surfactants, Ammonia-N, Fluoride, Cd, Ni, Co, 1,2-Dichloroethane, pH"
+B10,Internal,1,4,"Sulfate, Mn, Ni, Co"
+B03,Internal,1,8,"Fe, Mn, Volatile phenols, Anionic surfactants, CODMn, Ammonia-N, Na, Co"
+B07,Internal,1,4,"Fe, Mn, Co, 1,2-Dichloroethane"
+C04,Peripheral,0,0,
+C09,Peripheral,0,0,
+C01,Peripheral,0,0,
+C07,Peripheral,0,0,
+C10,Internal,0,0,
+C03,Internal,1,5,"Fe, Mn, Ammonia-N, Iodide, As"
+C08,Internal,1,1,As
+C02,Internal,1,3,"Chloride, Mn, Cd"
+C06,Peripheral,1,1,Cd
+C05,Peripheral,0,0,
+D02,Internal,1,5,"Total hardness, Sulfate, Mn, Fluoride, Se"
+D01,Internal,0,0,

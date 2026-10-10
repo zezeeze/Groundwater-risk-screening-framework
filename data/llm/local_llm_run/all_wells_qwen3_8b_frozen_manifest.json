@@ -1,0 +1,10 @@
+{
+  "frozen_at_utc": "2026-09-23T07:29:23.848719+00:00",
+  "output_file": "data/llm/local_llm_run/all_wells_qwen3_8b_outputs.jsonl",
+  "sha256": "9E49888964CF9480A16CC84A377A74C7EA8EB479C106A2E2EC698025FA4A7447",
+  "n_records": 41,
+  "unique_wells": 41,
+  "independent_evaluation_answers_loaded_before_freeze": false,
+  "note": "LLM inference and constrained contaminant-enterprise linkage completed before independent chemical-reference evaluation.",
+  "public_release_note": "Output-file hash updated after anonymization; the 41 model results were unchanged."
+}

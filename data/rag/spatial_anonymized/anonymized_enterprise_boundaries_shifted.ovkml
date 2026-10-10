@@ -1,0 +1,1651 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>企业边界_企业清单名称</name>
+		<Placemark>
+			<name>E010</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E010</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>10</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>品汉新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54046082,1.02920285,0 0.53859401,1.02909028,0 0.53876567,1.02802084,0 0.54049301,1.02781446,0 0.54046082,1.02920285,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E028</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E028</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>28</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>华飞医药</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54157662,1.02773941,0 0.54064322,1.02766436,0 0.53924847,1.02735947,0 0.53907681,1.02568492,0 0.53926992,1.02493441,0 0.54096508,1.02494379,0 0.54187703,1.02400565,0 0.54277825,1.02394936,0 0.54355073,1.02465297,0 0.54354000,1.02466235,0 0.54157662,1.02773941,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E005</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E005</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>5</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>浩晟实业</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54114747,1.02915595,0 0.54216671,1.02930604,0 0.54255295,1.02848990,0 0.54335761,1.02854618,0 0.54407644,1.02699830,0 0.54281044,1.02642604,0 0.54280508,1.02642135,0 0.54114747,1.02915595,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E007</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E007</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>7</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>明德新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54423738,1.03104151,0 0.54450560,1.03137922,0 0.54558921,1.03123851,0 0.54655480,1.02969066,0 0.54477382,1.02956871,0 0.54423738,1.03104151,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E025</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E025</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>25</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>久邦化工</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54477382,1.02953353,0 0.54516810,1.02859074,0 0.54502863,1.02733602,0 0.54740238,1.02822253,0 0.54656151,1.02966487,0 0.54477382,1.02953353,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E002</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E002</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>2</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>全德新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54539609,1.03381820,0 0.54702151,1.03357900,0 0.54730582,1.03300678,0 0.54556775,1.03199366,0 0.54555702,1.03200773,0 0.54555166,1.03200773,0 0.54539609,1.03381820,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E022</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E022</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>22</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>钟山橡胶</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54771352,1.03288483,0 0.54585743,1.03189517,0 0.54573405,1.03134639,0 0.54608810,1.03085390,0 0.54704833,1.03121037,0 0.54685521,1.03149648,0 0.54821241,1.03212968,0 0.54771352,1.03288483,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E024</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E024</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>24</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>凯迈斯</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54822850,1.03012219,0 0.54686058,1.02955933,0 0.54746139,1.02841485,0 0.54821241,1.02874318,0 0.54843235,1.02965783,0 0.54822850,1.03012219,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E032</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E032</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>32</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>品汉有机硅</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54292309,1.02626656,0 0.54560530,1.02742045,0 0.54706979,1.02582564,0 0.54561067,1.02497194,0 0.54550338,1.02508451,0 0.54434466,1.02441843,0 0.54292309,1.02626656,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E013</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E013</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>13</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>尊创新能源</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54783154,1.02486405,0 0.54526198,1.02324106,0 0.54672647,1.02154767,0 0.54919410,1.02309095,0 0.54783154,1.02486405,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E009</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E009</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>9</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>福塬化工</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54556239,1.02495786,0 0.54438758,1.02436684,0 0.54519224,1.02334894,0 0.54627049,1.02404318,0 0.54625976,1.02405256,0 0.54556239,1.02495786,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E008</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E008</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>8</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>普力玛</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54709125,1.02577404,0 0.54568040,1.02494379,0 0.54632950,1.02404787,0 0.54774034,1.02498132,0 0.54771888,1.02499070,0 0.54709125,1.02577404,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E012</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E012</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>12</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>科兴药业</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54999876,1.02780977,0 0.54720390,1.02601796,0 0.54927456,1.02323637,0 0.55109310,1.02402441,0 0.54967153,1.02605548,0 0.55062640,1.02662305,0 0.54999876,1.02780977,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E003</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E003</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>3</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>宏达橡胶</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54704833,1.02802084,0 0.54580915,1.02747674,0 0.54713416,1.02603203,0 0.54816949,1.02665588,0 0.54704833,1.02802084,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E021</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E021</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>21</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>展欧实业</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54711002,1.02803491,0 0.54842699,1.02856260,0 0.54929870,1.02742514,0 0.54819632,1.02670513,0 0.54711002,1.02803491,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E023</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E023</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>23</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>德宝化工</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55071223,1.02660897,0 0.54973590,1.02603203,0 0.55113602,1.02405256,0 0.55234838,1.02468111,0 0.55071223,1.02660897,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E014</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E014</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>14</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>鑫茂</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54446268,1.02333487,0 0.54260123,1.02259373,0 0.54270315,1.02230759,0 0.54487038,1.02290332,0 0.54488111,1.02291270,0 0.54446268,1.02333487,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E011</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E011</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>11</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>众鼎生物</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54495084,1.02285172,0 0.54305184,1.02225599,0 0.54471481,1.01968539,0 0.54639924,1.02117710,0 0.54495084,1.02285172,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E031</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E031</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>31</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>吉祥新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54936576,1.02285172,0 0.54690886,1.02122870,0 0.54778862,1.01999030,0 0.55041718,1.02134128,0 0.54936576,1.02285172,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E027</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E027</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>27</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>联仕新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54882932,1.02044063,0 0.54787445,1.01992463,0 0.54850745,1.01882695,0 0.54949450,1.01921161,0 0.54882932,1.02044063,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E015</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E015</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>15</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>惠康节能</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54889905,1.02050161,0 0.55044401,1.02128030,0 0.55124331,1.01987303,0 0.54955351,1.01923037,0 0.54889905,1.02050161,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E004</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E004</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>4</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>德弘新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55373776,1.02243424,0 0.55076051,1.02118179,0 0.55115211,1.02045001,0 0.55416691,1.02179160,0 0.55373776,1.02243424,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E001</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E001</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>1</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>一元再生</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55091071,1.02371013,0 0.54946232,1.02293147,0 0.55070686,1.02123808,0 0.55216062,1.02184320,0 0.55091071,1.02371013,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E017</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E017</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>17</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>万顺化工</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55263805,1.02101761,0 0.55117357,1.02041248,0 0.55196750,1.01861116,0 0.55365193,1.01923037,0 0.55263805,1.02101761,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E006</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E006</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>6</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>宜家新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55275071,1.02105044,0 0.55423129,1.02169778,0 0.55508423,1.02037965,0 0.55343199,1.01972292,0 0.55275071,1.02105044,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E018</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E018</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>18</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>卓禹防水</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55349100,1.01969008,0 0.55511105,1.02031397,0 0.55624831,1.01855956,0 0.55450487,1.01785122,0 0.55349100,1.01969008,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E019</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E019</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>19</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>友谊机电</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55573869,1.01984957,0 0.55631268,1.02008881,0 0.55701005,1.01898644,0 0.55641997,1.01870029,0 0.55573869,1.01984957,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E016</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E016</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>16</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>正跃材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.55364656,1.01913186,0 0.55199432,1.01847043,0 0.55238593,1.01759321,0 0.55373240,1.01795911,0 0.55397379,1.01770580,0 0.55442977,1.01782307,0 0.55364656,1.01913186,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E030</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E030</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>30</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>鼎新新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54931748,1.01894422,0 0.55125940,1.01977921,0 0.55226791,1.01754161,0 0.55027235,1.01700683,0 0.54931748,1.01894422,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E029</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E029</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>29</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>德凯新材料</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54925847,1.01893015,0 0.54841626,1.01861116,0 0.54919946,1.01675821,0 0.55018651,1.01707720,0 0.54925847,1.01893015,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E026</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E026</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>26</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>江铜化工</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54754186,1.01984957,0 0.54656553,1.01928666,0 0.54401207,1.01437981,0 0.54198432,1.01334775,0 0.54225254,1.01293492,0 0.54278898,1.01312257,0 0.54340053,1.01263468,0 0.54472017,1.01361046,0 0.54775643,1.01544939,0 0.54814267,1.01627503,0 0.54738092,1.01675352,0 0.54828215,1.01896768,0 0.54754186,1.01984957,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E046</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E046</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>46</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>金德铅业</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.51943231,1.00770875,0 0.52022624,1.00450911,0 0.52402425,1.00534422,0 0.52539754,1.00575708,0 0.52445340,1.00898482,0 0.52443194,1.00902235,0 0.51943231,1.00770875,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E038</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E038</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>38</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>德邦化工</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52400815,1.00455603,0 0.52261341,1.00417601,0 0.52141178,1.00323767,0 0.52267241,1.00170818,0 0.52314448,1.00163780,0 0.52355754,1.00188177,0 0.52432466,1.00120616,0 0.52463579,1.00122962,0 0.52451777,1.00175979,0 0.52479136,1.00205537,0 0.52422810,1.00277789,0 0.52491474,1.00329398,0 0.52400815,1.00455603,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E047</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E047</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>47</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>明缘化工</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52517223,1.00414317,0 0.52584815,1.00460294,0 0.52750039,1.00481876,0 0.52797246,1.00463109,0 0.52776861,1.00393673,0 0.52740383,1.00373030,0 0.52765059,1.00328928,0 0.52634168,1.00278258,0 0.52550483,1.00358955,0 0.52517223,1.00414317,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E040</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E040</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>40</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>飞龙电子</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52883077,1.00463109,0 0.52799928,1.00446220,0 0.52783835,1.00389920,0 0.52752185,1.00370684,0 0.52771497,1.00328928,0 0.52919018,1.00381944,0 0.52883077,1.00463109,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E043</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E043</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>43</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>绿野林产</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52787590,1.00314384,0 0.52651870,1.00256676,0 0.52698541,1.00166595,0 0.52831042,1.00210228,0 0.52787590,1.00314384,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E048</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E048</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>48</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>碧翠环保</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52791882,1.00320483,0 0.52890587,1.00357548,0 0.52942622,1.00266998,0 0.52840161,1.00211636,0 0.52791882,1.00320483,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E055</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E055</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>55</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>铜都装饰</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52997875,1.00296087,0 0.52855718,1.00168472,0 0.52896488,1.00126715,0 0.53053665,1.00229933,0 0.52997875,1.00296087,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E053</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E053</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>53</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>富民油脂</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52891660,1.00122962,0 0.52769887,1.00031003,0 0.52687275,1.00070414,0 0.52678692,1.00151581,0 0.52824068,1.00199906,0 0.52891660,1.00122962,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E039</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E039</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>39</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>科润新材</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.53105700,1.00660155,0 0.52882540,1.00604326,0 0.52908826,1.00507680,0 0.52883613,1.00481876,0 0.52976418,1.00376783,0 0.53189385,1.00529261,0 0.53166854,1.00611833,0 0.53130913,1.00607610,0 0.53105700,1.00660155,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E045</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E045</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>45</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>天峰雄狮</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52731800,1.00016458,0 0.52584815,1.00017396,0 0.52461433,0.99966725,0 0.52508640,0.99850366,0 0.52471089,0.99749959,0 0.52519369,0.99714300,0 0.52563357,0.99715239,0 0.52639532,0.99772481,0 0.52763987,0.99788433,0 0.52821922,0.99901977,0 0.52784371,0.99963909,0 0.52731800,1.00016458,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E052</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E052</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>52</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>志高防腐</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.53071368,1.00024903,0 0.53031135,0.99941389,0 0.53130108,0.99868665,0 0.53183216,0.99934585,0 0.53071368,1.00024903,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E044</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E044</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>44</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>博尔顿生态</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.52879858,0.99976108,0 0.52864033,0.99945611,0 0.52985001,0.99917929,0 0.53015578,0.99934116,0 0.52879858,0.99976108,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E054</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E054</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>54</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>中化能源</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.53350854,1.00728651,0 0.53194213,1.00637636,0 0.53257513,1.00558818,0 0.53066540,1.00416193,0 0.52981782,1.00352387,0 0.53094435,1.00223834,0 0.52959251,1.00148766,0 0.53065467,1.00049301,0 0.53186703,1.00143136,0 0.53280044,1.00085897,0 0.53619075,1.00394612,0 0.53350854,1.00728651,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E051</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E051</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>51</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>林武新能源</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.53023624,1.00084255,0 0.52882272,1.00000506,0 0.53031939,0.99948192,0 0.53070027,1.00036398,0 0.53023624,1.00084255,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E041</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E041</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>41</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>纵横水泥</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.53079414,1.00030533,0 0.53181338,1.00121085,0 0.53355145,0.99960156,0 0.53180802,0.99788433,0 0.53131449,0.99863034,0 0.53189385,0.99933412,0 0.53079414,1.00030533,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>E020</name>
+			<ExtendedData>
+				<Data name="enterprise_id">
+					<value>E020</value>
+				</Data>
+				<Data name="source_enterprise_row">
+					<value>20</value>
+				</Data>
+				<Data name="original_boundary_name">
+					<value>海创环保</value>
+				</Data>
+				<Data name="mapping_status">
+					<value>已按企业清单确认</value>
+				</Data>
+			</ExtendedData>
+			<Style>
+				<LineStyle>
+					<color>7fff0000</color>
+					<width>1</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>7fff0000</color>
+				</PolyStyle>
+			</Style>
+			<OvCoordType>CGCS2000</OvCoordType>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>0.54078269,1.03349457,0 0.54194140,1.03349457,0 0.54216671,1.02940924,0 0.54081488,1.02946552,0 0.54078269,1.03349457,0 </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>

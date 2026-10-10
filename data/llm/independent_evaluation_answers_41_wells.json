@@ -1,0 +1,1372 @@
+{
+  "schema_version": "1.0",
+  "use": "Independent evaluation only. This file must not enter LLM prompts, RAG retrieval, or model input.",
+  "n_wells": 41,
+  "records": [
+    {
+      "well_id": "CK01",
+      "well_type": "Background/Control",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "CK02",
+      "well_type": "Background/Control",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A07",
+      "well_type": "Peripheral",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 3,
+      "v_class_trigger_indicators": [
+        "Total hardness",
+        "Ni",
+        "Co"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 1,
+        "常见金属": 0,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "盐分与矿化度",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Total hardness",
+        "Ni",
+        "Co"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A03",
+      "well_type": "Peripheral",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 2,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Mn"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "盐分与矿化度",
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Mn"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A10",
+      "well_type": "Peripheral",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 1,
+      "v_class_trigger_indicators": [
+        "Mn"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Mn"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A01",
+      "well_type": "Peripheral",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 7,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Mn",
+        "Al",
+        "Ammonia-N",
+        "Ni",
+        "Co",
+        "pH"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Mn",
+        "Al",
+        "Ammonia-N",
+        "Ni",
+        "Co",
+        "pH"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "Ni、Co及其他金属",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "井位邻近且企业原料和工艺涉及相关金属，调查报告将该井金属异常与该企业联系。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A12",
+      "well_type": "Internal",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A05",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 5,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "CODMn",
+        "Ammonia-N"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "CODMn",
+        "Ammonia-N"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E003",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "最终模拟来源",
+          "basis": "成果报告污染模拟将该井1,2-二氯乙烷与E003对应。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        },
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "初步调查关联",
+          "basis": "初步调查阶段按邻近关系和原辅料将该井与E012联系，后续模拟给出不同来源。",
+          "source_locator": "初步调查结论，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A09",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 2,
+      "v_class_trigger_indicators": [
+        "Mn",
+        "Anionic surfactants"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常见金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Mn",
+        "Anionic surfactants"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E005",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "最终模拟来源",
+          "basis": "成果报告污染模拟识别该井位于E005下游。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A02",
+      "well_type": "Internal",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷与乙醛",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "井位处于E012下游，原辅料和模拟结果共同支持。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        },
+        {
+          "enterprise_id": "E010",
+          "pollutant_direction": "氯乙烯与二氯甲烷",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "井位处于E010下游，企业原辅料涉及相应化合物。",
+          "source_locator": "详细调查成果报告，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A11",
+      "well_type": "Internal",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "初步调查关联",
+          "basis": "初步调查按井位、流向和原辅料将该井与E012联系。",
+          "source_locator": "初步调查结论，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A04",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 1,
+      "v_class_trigger_indicators": [
+        "Mn"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Mn"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "A08",
+      "well_type": "Peripheral",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 5,
+      "v_class_trigger_indicators": [
+        "Mn",
+        "Al",
+        "Ni",
+        "Co",
+        "pH"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "常见金属",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Mn",
+        "Al",
+        "Ni",
+        "Co",
+        "pH"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E026",
+          "pollutant_direction": "硫酸盐、Cd、Ni、Co等",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "该井位于E026下游，报告结合原辅料、废水和模拟结果形成来源判断。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "A06",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 10,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Chloride",
+        "Cu",
+        "Zn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Cd",
+        "Ni",
+        "Co"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 0,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "毒性金属与类金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Chloride",
+        "Cu",
+        "Zn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Cd",
+        "Ni",
+        "Co"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "Mn、Cu、Zn、Cd、Ni、Co等金属",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "该井位于E001下游，企业原料和工艺涉及相关金属，报告多处形成一致判断。",
+          "source_locator": "详细调查成果报告，污染成因分析与Section 8.2"
+        },
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "模拟下游关系",
+          "basis": "成果报告将该井列为E012下游的1,2-二氯乙烷影响点。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B11",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 8,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Ni",
+        "Co"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Ni",
+        "Co"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E024",
+          "pollutant_direction": "Al及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告按邻近关系及原辅料将该井与E024列为同一排查方向。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B04",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 1,
+      "v_class_trigger_indicators": [
+        "Mn"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Mn"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B14",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 11,
+      "v_class_trigger_indicators": [
+        "Total hardness",
+        "Chloride",
+        "Fe",
+        "Mn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Iodide",
+        "Co",
+        "1,2-Dichloroethane",
+        "Benzene"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Total hardness",
+        "Chloride",
+        "Fe",
+        "Mn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Iodide",
+        "Co",
+        "1,2-Dichloroethane",
+        "Benzene"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E012",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "模拟下游关系",
+          "basis": "成果报告污染模拟将该井列为E012下游点位。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B02",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 11,
+      "v_class_trigger_indicators": [
+        "Total hardness",
+        "Chloride",
+        "Fe",
+        "Mn",
+        "Volatile phenols",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Fluoride",
+        "B",
+        "1,2-Dichloroethane"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Total hardness",
+        "Chloride",
+        "Fe",
+        "Mn",
+        "Volatile phenols",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Fluoride",
+        "B",
+        "1,2-Dichloroethane"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B09",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 4,
+      "v_class_trigger_indicators": [
+        "Fe",
+        "Mn",
+        "CODMn",
+        "Ammonia-N"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Fe",
+        "Mn",
+        "CODMn",
+        "Ammonia-N"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E010",
+          "pollutant_direction": "Al、氯化物及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告按邻近关系和企业原辅料形成候选来源判断。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B15",
+      "well_type": "Internal",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B06",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 6,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "CODMn",
+        "Ammonia-N",
+        "Co"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "CODMn",
+        "Ammonia-N",
+        "Co"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B13",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 6,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Fe",
+        "Mn",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B01",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 5,
+      "v_class_trigger_indicators": [
+        "Chloride",
+        "Mn",
+        "Al",
+        "Fluoride",
+        "pH"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Chloride",
+        "Mn",
+        "Al",
+        "Fluoride",
+        "pH"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B08",
+      "well_type": "Peripheral",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B12",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 2,
+      "v_class_trigger_indicators": [
+        "Mn",
+        "Al"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常见金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Mn",
+        "Al"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "B05",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 14,
+      "v_class_trigger_indicators": [
+        "Total hardness",
+        "Chloride",
+        "Fe",
+        "Mn",
+        "Al",
+        "Volatile phenols",
+        "Anionic surfactants",
+        "Ammonia-N",
+        "Fluoride",
+        "Cd",
+        "Ni",
+        "Co",
+        "1,2-Dichloroethane",
+        "pH"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Total hardness",
+        "Chloride",
+        "Fe",
+        "Mn",
+        "Al",
+        "Volatile phenols",
+        "Anionic surfactants",
+        "Ammonia-N",
+        "Fluoride",
+        "Cd",
+        "Ni",
+        "Co",
+        "1,2-Dichloroethane",
+        "pH"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E032",
+          "pollutant_direction": "氯化物、Mn、Zn等",
+          "conclusion_level": "报告判断为主要来源",
+          "basis": "报告结合井位、企业废液原料和污染分布形成来源判断。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B10",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 4,
+      "v_class_trigger_indicators": [
+        "Sulfate",
+        "Mn",
+        "Ni",
+        "Co"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Sulfate",
+        "Mn",
+        "Ni",
+        "Co"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "Al、Zn、Co等金属",
+          "conclusion_level": "模拟来源",
+          "basis": "成果报告金属污染模拟将该井与E001对应。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B03",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 8,
+      "v_class_trigger_indicators": [
+        "Fe",
+        "Mn",
+        "Volatile phenols",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Na",
+        "Co"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Fe",
+        "Mn",
+        "Volatile phenols",
+        "Anionic surfactants",
+        "CODMn",
+        "Ammonia-N",
+        "Na",
+        "Co"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E002",
+          "pollutant_direction": "Mn及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告将井位周边企业活动、废水收集和原辅料列为排查依据。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        },
+        {
+          "enterprise_id": "E022",
+          "pollutant_direction": "Mn及相关无机组分",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告将井位周边企业活动、废水收集和原辅料列为排查依据。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "B07",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 4,
+      "v_class_trigger_indicators": [
+        "Fe",
+        "Mn",
+        "Co",
+        "1,2-Dichloroethane"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 1
+      },
+      "positive_categories": [
+        "常见金属",
+        "毒性金属与类金属",
+        "特征有机污染物"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Fe",
+        "Mn",
+        "Co",
+        "1,2-Dichloroethane"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E001",
+          "pollutant_direction": "金属及氯化物",
+          "conclusion_level": "报告候选来源",
+          "basis": "报告按井位与企业地块关系将其纳入E001相关排查范围。",
+          "source_locator": "详细调查成果报告，Section 7.7–8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C04",
+      "well_type": "Peripheral",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "C09",
+      "well_type": "Peripheral",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E038",
+          "pollutant_direction": "1,2-二氯乙烷",
+          "conclusion_level": "上游污染关联",
+          "basis": "报告认为该井位于C02下游，异常可能与E038内部上游污染有关。",
+          "source_locator": "初步调查结论，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C01",
+      "well_type": "Peripheral",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "C07",
+      "well_type": "Peripheral",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "C10",
+      "well_type": "Internal",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E038",
+          "pollutant_direction": "三氯甲烷及相关化学异常",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "井位邻近E038，报告结合生产和排放过程形成判断。",
+          "source_locator": "详细调查成果报告，污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C03",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 5,
+      "v_class_trigger_indicators": [
+        "Fe",
+        "Mn",
+        "Ammonia-N",
+        "Iodide",
+        "As"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 1,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "常规水质与营养盐",
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Fe",
+        "Mn",
+        "Ammonia-N",
+        "Iodide",
+        "As"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E039",
+          "pollutant_direction": "As及相关金属",
+          "conclusion_level": "报告判断为企业活动影响",
+          "basis": "该井为E039厂区内部监测井，报告将相关异常与企业活动联系。",
+          "source_locator": "详细调查成果报告，Section 7.7"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C08",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 1,
+      "v_class_trigger_indicators": [
+        "As"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "As"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E046",
+          "pollutant_direction": "Tl及相关金属",
+          "conclusion_level": "报告判断为可能相关",
+          "basis": "报告结合井位、企业特征污染物和下游关系形成判断。",
+          "source_locator": "详细调查成果报告，Section 7.7–8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C02",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 3,
+      "v_class_trigger_indicators": [
+        "Chloride",
+        "Mn",
+        "Cd"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Chloride",
+        "Mn",
+        "Cd"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E038",
+          "pollutant_direction": "氯化物、Mn、三氯甲烷及特征有机物",
+          "conclusion_level": "报告判断及模拟支持",
+          "basis": "井位处于E038厂区或其影响范围，报告结合流向、企业原辅料和模拟结果形成判断。",
+          "source_locator": "详细调查成果报告，Section 7.7–8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C06",
+      "well_type": "Peripheral",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 1,
+      "v_class_trigger_indicators": [
+        "Cd"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Cd"
+      ],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E046",
+          "pollutant_direction": "Tl及相关金属",
+          "conclusion_level": "模拟来源",
+          "basis": "成果报告污染模拟将该井Tl异常与E046对应。",
+          "source_locator": "详细调查成果报告，Section 8.2"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    },
+    {
+      "well_id": "C05",
+      "well_type": "Peripheral",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "D02",
+      "well_type": "Internal",
+      "overall_risk_label": 1,
+      "v_class_trigger_count": 5,
+      "v_class_trigger_indicators": [
+        "Total hardness",
+        "Sulfate",
+        "Mn",
+        "Fluoride",
+        "Se"
+      ],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 1,
+        "常见金属": 1,
+        "毒性金属与类金属": 1,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [
+        "盐分与矿化度",
+        "常见金属",
+        "毒性金属与类金属"
+      ],
+      "accepted_confirmatory_test_targets": [
+        "Total hardness",
+        "Sulfate",
+        "Mn",
+        "Fluoride",
+        "Se"
+      ],
+      "enterprise_reference": [],
+      "enterprise_reference_status": "no explicit report attribution for this study well"
+    },
+    {
+      "well_id": "D01",
+      "well_type": "Internal",
+      "overall_risk_label": 0,
+      "v_class_trigger_count": 0,
+      "v_class_trigger_indicators": [],
+      "category_labels": {
+        "常规水质与营养盐": 0,
+        "盐分与矿化度": 0,
+        "常见金属": 0,
+        "毒性金属与类金属": 0,
+        "特征有机污染物": 0
+      },
+      "positive_categories": [],
+      "accepted_confirmatory_test_targets": [],
+      "enterprise_reference": [
+        {
+          "enterprise_id": "E046",
+          "pollutant_direction": "As、Cd、Pb及其他金属",
+          "conclusion_level": "报告判断为企业活动影响",
+          "basis": "该监测井统一编号为D01。成果报告结合井位、地下水流向和企业污染识别结果，将该井相关异常与E046联系。",
+          "source_locator": "详细调查成果报告，Section 7.7，D01污染成因分析"
+        }
+      ],
+      "enterprise_reference_status": "available"
+    }
+  ]
+}
